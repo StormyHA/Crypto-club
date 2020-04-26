@@ -1,0 +1,31 @@
+h2 {
+  font-size: 36px;
+  padding: 80px;
+  padding-bottom: 10px;
+  font-weight: 600;
+  font-family: sans-serif;
+  align-content: left;
+}
+
+h3 {
+  font-size: 24px;
+  font-weight: 700;
+  margin: 40px;
+}
+
+.my-guide p {
+  font-size: 14px;
+  line-height: 180%;
+  text-align: justify;
+  font-weight: 400;
+  color: #1d3a4e;
+  margin-bottom: 32px;
+  padding: 0;
+  margin: 30px;
+  font-family: "Open Sans";
+}
+
+img {
+  width: 900px;
+  padding: 20px;
+}

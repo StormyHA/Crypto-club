@@ -1,0 +1,15 @@
+    {this.state.list.slice(0, 5).map(item => (
+            <tr>
+            <th>Name</th>
+            <th>price</th>
+            </tr>
+            <tr>
+
+            <td>key={item.id}</td>
+            {item.Name}
+            <td>key={item.Symbol}</td>
+            {item.Symbol}
+            </tr>
+
+
+          
